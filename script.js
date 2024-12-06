@@ -1,4 +1,4 @@
-import { API_KEY } from "./config.js";  // Assuming config.js exports API_KEY
+import { API_KEY } from "./config.js";    // THIS IS JUST A PATH OF MY API KEY , TRY USING YOURS
 
 const chatInput = document.querySelector("#chat-input");
 const sendButton = document.querySelector("#send-btn");
